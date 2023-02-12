@@ -7,21 +7,16 @@ Software Engineer.
 
 <div id="webaddress">
 <text>Jakarta, Indonesia</text>
-| <a href="mailto:boby.hendra39@gmail.com">Email</a>
-| <a href="https://www.linkedin.com/in/boby-h-470b40130/">LinkedIn</a>
+| <a href="mailto:boby.hendra39@gmail.com">boby.hendra39@gmail.com</a>
+| <a href="https://www.linkedin.com/in/boby-h-470b40130/">https://www.linkedin.com/in/boby-h-470b40130/</a>
 </div>
 
 
-[//]: # (## Profile Summary)
-
-[//]: # (Experienced IT profesionals with over 2 years of experiece in corporate environments)
-
-[//]: # (Passionate about technology since junior high school in various web application development with soft skills that I built up from 5-year organizational experience in analytical thinking, problem-solving, and collaboration.)
-
-[//]: # (Since 2018, I've successfully delivered automation-based innovation to solve business problems for more than 10 professional projects. Now I'm focused on infrastructure & automation by implementing the DevOps culture to improve software engineer productivity. )
-
+## Profile Summary
+Experienced IT profesionals with over 2 years of experiece in in the financial services industry.
+Always want to learn and exploring something new. Now i'm focused on back-end development & automation deployments.
 ### Technical Skill
-Java, Javascript ES6, Typescript, Golang, Jenkins, Apache Kafka Spring Framework, React.Js, Flutter (Dart), AWS, GCP, Linux Administration, Docker, MySQL, PostgreSQL, Git, VMware
+Java, Javascript ES6, Typescript, Golang, Jenkins, Apache Kafka, Spring Framework, React.Js, Flutter (Dart), AWS, GCP, Linux Administration, Docker, MySQL, PostgreSQL, Git, VMware
 
 ## Professional Experience
 
@@ -57,6 +52,12 @@ Achievements:
 - 2) Print Server to connect all computers to printer
 - 3) Re-use and efficiency old hardware
 
+`Mar 2018 - Jun 2018`
+__Internship Web Developer__, PT. Inosoft Trans Sistem
+
+- Develop & Design front end web application based on user's requirement for several
+ organization & educational institutions
+
 ## Language
 - Indonesia
 - English
@@ -72,7 +73,7 @@ Achievements:
 
 ## Education & Training
 
-`2016 - 2019`
+`2020`
 __PT. Enigma Cipta Humanika, Jakarta.__ IT Bootcamp
 
 `2016 - 2019`
