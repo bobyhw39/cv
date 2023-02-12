@@ -15,7 +15,7 @@ Software Engineer.
 ## Profile Summary
 Experienced IT profesionals with over 2 years of experiece in in the financial services industry.
 Always want to learn and exploring something new. Now i'm focused on back-end development & automation deployments.
-### Technical Skill
+## Technical Skill
 Java, Javascript ES6, Typescript, Golang, Jenkins, Apache Kafka, Spring Framework, React.Js, Flutter (Dart), AWS, GCP, Linux Administration, Docker, MySQL, PostgreSQL, Git, VMware
 
 ## Professional Experience
