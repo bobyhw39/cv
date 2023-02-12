@@ -135,7 +135,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.0em;
 	color: #3434eb;
 	margin-top: 2em;
 	position: relative;
@@ -146,7 +146,7 @@ h2 {
 
 
 h3 {
-	font-size: 1em;
+	font-size: 0.9em;
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
