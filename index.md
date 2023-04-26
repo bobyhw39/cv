@@ -13,44 +13,53 @@ Software Engineer.
 
 
 ## Profile Summary
-Experienced IT profesionals with over 2 years of experiece in in the financial services industry.
-Always want to learn and exploring something new. Now i'm focused on back-end development & automation deployments.
+Experienced IT profesionals with over 2 years of experiece in the financial services industry.
+Always want to learn and exploring something new.
 ## Technical Skill
-Java, Javascript ES6, Typescript, Golang, Jenkins, Apache Kafka, Spring Framework, React.Js, Flutter (Dart), AWS, GCP, Linux Administration, Docker, MySQL, PostgreSQL, Git, VMware
+Java, Javascript ES6, Typescript, Flutter (Dart), Golang, Jenkins, Apache Kafka, Spring Framework, React.Js, AWS, GCP, Linux Administration, Docker, MySQL, PostgreSQL, Git, VMware
 
 ## Professional Experience
 
 `Sep 2020 - Present`
 __Fulstack Developer__, PT. Cashlez Worldwide Indonesia Tbk
 
-Mostly contribute in backend, architecture, and automation deployments.
-
 Responsibilities:
 - 1) Developing back-end using Spring Boot and Golang
-- 2) Re-engineering from monolithic to micro-service
+- 2) Developing web based app using React.Js
+- 3) Developing mobile app using Flutter
 - 3) Support application & infra troubleshooting in production
 - 4) Research for tools and new technology to gain more productivity in our team
 
-Achivements:
+Achievements:
 - 1) Integration with Acquirer and Payment Channel (Mastercard, Indodana, Shopeepay)
 - 2) Cashlez POS Premium Feature
-- 3) Implementation of Jenkins for release apps and services,then distribute to many VM
-- 4) Provide better Log and analysis problem with Graylog Centralize Logging
-- 5) Implements Load Balancer with Kong API Gateway
+- 3) Starletz Customer App (Terminated)
+- 4) Food & Beverages Apps
+- 5) Implementation of Jenkins for release apps and services,then distribute to many VM
+
+`Dec 2021 - Dec 2022`
+__Frontend Developer__, CV. Cipta Agung Semesta
+
+Responsibilities:
+- 1) Developing mobile apps using Flutter
+- 2) Developing Web based apps with React.Js
+- 3) Maintain Legacy Project
+
+Achievements:
+- 1) Mobile POS Apps
+- 2) Loyalty & Membership App
+- 3) Self Service Order App
 
 `Sep 2019 - Dec 2019`
 __IT Support__, Credit Union St.Louis
 
 Responsibilities:
 - 1) Troubleshoot and solve PC problems
-- 2) Managing Internet and Local Area Network
-- 3) Managing Fingerprint, Printer,CCTV and many other peripherals
-- 4) Managing Server Infrastructure
+- 2) Managing Server Infrastructure
 
 Achievements:
 - 1) Setup Local Area Network for easy transfer data between floors
 - 2) Print Server to connect all computers to printer
-- 3) Re-use and efficiency old hardware
 
 `Mar 2018 - Jun 2018`
 __Internship Web Developer__, PT. Inosoft Trans Sistem
@@ -80,4 +89,4 @@ __PT. Enigma Cipta Humanika, Jakarta.__ IT Bootcamp
 __SMK. St Louis, Surabaya__. Teknik Komputer dan Jaringan
 
 <!-- ### Footer
-Last updated: Feb 2023 -->
+Last updated: April 2023 -->
