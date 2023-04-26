@@ -34,7 +34,7 @@ Achievements:
 - 1) Integration with Acquirer and Payment Channel (Mastercard, Indodana, Shopeepay)
 - 2) Cashlez POS Premium Feature
 - 3) Starletz Customer App (Terminated)
-- 4) Food & Beverages Apps
+- 4) Food & Beverages App (Terminated)
 - 5) Implementation of Jenkins for release apps and services,then distribute to many VM
 
 `Dec 2021 - Dec 2022`
