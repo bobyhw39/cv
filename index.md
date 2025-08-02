@@ -91,4 +91,4 @@ __PT. Enigma Cipta Humanika, Jakarta.__ IT Bootcamp
 __SMK. St Louis, Surabaya__. Teknik Komputer dan Jaringan
 
 <!-- ### Footer
-Last updated: Feb 2023 -->
+Last updated: August 2025 -->
